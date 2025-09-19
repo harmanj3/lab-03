@@ -2,7 +2,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://stackoverflow.com/questions/9931993/passing-an-object-from-an-activity-to-a-fragment
 
 ## Verbal Collaboration
 
